@@ -1,0 +1,1 @@
+Este repositório tem uma coletânea de códigos/desafios feitos em javascript com o intuito de treinar a linguagem.
